@@ -1,0 +1,70 @@
+[
+	{
+		"id": 1,
+		"Day": "Monday",
+		"todos": [
+			"Study math",
+			"Study python",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 2,
+		"Day": "Tuesday",
+		"todos": [
+			"Study math",
+			"Study python",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 3,
+		"Day": "Wednesday",
+		"todos": [
+			"Study math",
+			"Develop projects",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 4,
+		"Day": "Thursday",
+		"todos": [
+			"Study math",
+			"Study python",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 5,
+		"Day": "Friday",
+		"todos": [
+			"Study math",
+			"Study python",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 6,
+		"Day": "Saturday",
+		"todos": [
+			"Study math",
+			"Develop projects",
+			"Exercise"
+		]
+	},
+
+	{
+		"id": 7,
+		"Day": "Sunday",
+		"todos": [
+			"Exercise",
+			"Have fun"
+		]
+	}
+]

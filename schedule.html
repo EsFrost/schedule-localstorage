@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" href="./src/ico/ico.png">
+	<script type="text/javascript" src="./src/jQuery/jQuery_3_3_1.js"></script>
+	<script type="text/javascript" src="./schedule_list.js"></script>
+	<script type="text/javascript" src="./src/materialize/js/materialize.min.js"></script>
+	<link rel="stylesheet" href="./src/materialize/css/materialize.min.css">
+	<link rel="stylesheet" type="text/css" href="./src/schedule.css">
+
+</head>
+
+<body>
+
+	<nav>
+		<div class="nav-wrapper">
+			<a href="./schedule.html" class="brand-logo">Schedule</a>
+			<ul id="nav-mobile" class="right hide-on-med-and-down">
+				<li><a href="schedule.html">Daily Schedule</a></li>
+				<li><a href="week-schedule.html">Weekly Shcedule</a></li>
+			</ul>	
+		</div>
+	</nav>
+
+	<div class="container row">
+
+		<div class="dayHeader col s8 center"></div>
+
+		<div class="col s4 center">Add tasks here.</div>
+
+		<div id="schedule-table" class="col s8 center"></div>
+	
+		<form id="schedule-form">
+			<div class="col s4">
+				<input type="text" id="task" class="form-control">
+				<input type="submit" value="Add" class="btn">
+			</div>
+		</form>
+
+	</div>
+	<script type="text/javascript" src="./schedule.js"></script>
+</body>
+</html>

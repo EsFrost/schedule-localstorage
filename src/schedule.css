@@ -1,0 +1,41 @@
+nav {
+	background: #319fa0 !important;
+}
+
+.container {
+	margin-top: 25px;
+}
+
+.dayHeader {
+	font-size: 25pt;
+	font-weight: 500;
+}
+
+#schedule-table {
+	margin-top: 10px;
+}
+
+.button {
+	color: white;
+	background: red;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	margin: 0 auto;
+	cursor: pointer;
+}
+
+.button:hover {
+	background: #ff5e56;
+}
+
+.checked {
+	background: #f7f7f7;
+	text-decoration: line-through;
+	color: #75726d;
+}
+
+.dayHeader div {
+	font-size: 16px;
+	font-weight: 400;
+}
